@@ -119,10 +119,10 @@ h2 {
     padding-left: 5px;
     padding-right: 5px;
 }
-.heriseon {
+.travelSimulator {
     height: 250px;
     width: auto;
-    background-image: url(../images/heriseon.PNG);
+    background-image: url(../images/travelSimulator.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid gold;
@@ -130,25 +130,25 @@ h2 {
     margin-bottom: 20px;
     opacity: 0.7;
 }
-.heriseon:hover {
+.travelSimulator:hover {
     height: 300px;
 }
-.ansir {
+.weatherDashboard {
     height: 250px;
     width: auto;
-    background-image: url(../images/ansir.PNG);
+    background-image: url(../images/weatherDashboard.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid gold;
     border-radius: 10px;
     opacity: 0.7;
 }
-.heriseon:hover {
+.travelSimulator:hover {
     height: 270px;
     opacity: 1.0;
     border-color: red;
 }
-.ansir:hover {
+.weatherDashboard:hover {
     height: 270px;
     opacity: 1.0;
     border-color: red;
